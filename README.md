@@ -1,2 +1,2 @@
 # reboot-color-picker
-No description yet
+Just a color picker for reboot platform
