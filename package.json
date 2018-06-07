@@ -1,0 +1,23 @@
+{
+  "name": "reboot-color-picker",
+  "version": "0.1.0",
+  "description": "Just a color picker for reboot platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epixelic/reboot-color-picker.git"
+  },
+  "keywords": [
+    "color",
+    "picker"
+  ],
+  "author": "benoit branchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epixelic/reboot-color-picker/issues"
+  },
+  "homepage": "https://github.com/epixelic/reboot-color-picker#readme"
+}
